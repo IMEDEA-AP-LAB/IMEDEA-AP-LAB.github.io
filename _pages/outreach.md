@@ -75,6 +75,17 @@ nav_order: 4
   <div class="press-item">
     <div class="press-date">July 2025</div>
     <div class="press-title">
+      <a href="https://www.elperiodico.com/es/medio-ambiente/20250707/disparado-temperatura-agua-mediterraneo-espanol-119356965" target="_blank">
+       Así se ha disparado la temperatura del agua en el Mediterráneo español desde hace 40 años
+      </a>
+    </div>
+    <div class="press-outlet">El Periódico</div>
+    <div class="press-excerpt">El mar Mediterráneo, cuya temperatura media era de 22,6 °C en 1986, ha registrado picos hasta cinco grados por encima de lo normal para estas fechas, lo que lo convierte en un factor de riesgo para la formación de tormentas severas.</div>
+  </div>
+
+  <div class="press-item">
+    <div class="press-date">July 2025</div>
+    <div class="press-title">
       <a href="https://www.diariodemallorca.es/mallorca/2025/07/12/unica-mallorquina-expedicion-oceano-agencia-119603634.html" target="_blank">
        La única mallorquina en la expedición en el océano de la Agencia Espacial Europea: "Hay mucho por explorar"
       </a>
