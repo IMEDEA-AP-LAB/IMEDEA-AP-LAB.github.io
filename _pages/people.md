@@ -6,7 +6,7 @@ description: Meet our research team, past members, collaborators and visitors
 nav: true
 nav_order: 2
 ---
-## research team
+## Research team
 
 <div class="people row">
 
@@ -31,6 +31,25 @@ nav_order: 2
 
 <div class="person-card">
   <div class="card-body">
+    <img src="/assets/img/team/baptiste_mourre.jpg" alt="Dr. Baptiste Mourre" class="profile-image">
+    <h5 class="card-title">Dr. Baptiste Mourre</h5>
+    <h6 class="card-subtitle">Research Scientist (2024 - present)</h6>
+    <div class="social-links">
+      <a href="mailto:bmourre@imedea.uib-csic.es" class="social-link email">
+        <span>📧</span>
+        <span>Email</span>
+      </a>
+      <a href="https://orcid.org/0000-0002-5056-0423" class="social-link orcid">
+        <span>🔗</span>
+        <span>ORCID</span>
+      </a>
+    </div>
+    <p class="card-text"></p>
+  </div>
+</div>
+
+<div class="person-card">
+  <div class="card-body">
     <img src="/assets/img/team/CombesVincent.jpeg" alt="Dr. Vincent Combes" class="profile-image">
     <h5 class="card-title">Dr. Vincent Combes</h5>
     <h6 class="card-subtitle">Ramón y Cajal Fellow (2022 - present)</h6>
@@ -49,25 +68,6 @@ nav_order: 2
       </a>
     </div>
     <p class="card-text">Specializes in ocean modeling, coastal upwelling systems, and eddy dynamics with expertise in regional and coastal sea modeling and low-frequency ocean variability.</p>
-  </div>
-</div>
-
-<div class="person-card">
-  <div class="card-body">
-    <img src="/assets/img/team/baptiste_mourre.jpg" alt="Dr. Baptiste Mourre" class="profile-image">
-    <h5 class="card-title">Dr. Baptiste Mourre</h5>
-    <h6 class="card-subtitle">Research Scientist (2022 - present)</h6>
-    <div class="social-links">
-      <a href="mailto:bmourre@imedea.uib-csic.es" class="social-link email">
-        <span>📧</span>
-        <span>Email</span>
-      </a>
-      <a href="https://orcid.org/0000-0002-5056-0423" class="social-link orcid">
-        <span>🔗</span>
-        <span>ORCID</span>
-      </a>
-    </div>
-    <p class="card-text"></p>
   </div>
 </div>
 
@@ -105,10 +105,12 @@ nav_order: 2
         <span>ORCID</span>
       </a>
     </div>
+    <!--
     <div class="supervisor-info">
       <div class="supervisor-label">PhD Supervisor</div>
       <div class="supervisor-name">Dra. Ananda Pascual, Dr. Baptiste Mourre</div>
     </div>
+    -->
     <p class="card-text">Researching fine-scale ocean dynamics and SWOT satellite applications for enhanced eddy detection using multi-platform observations.</p>
   </div>
 </div>
@@ -128,10 +130,12 @@ nav_order: 2
         <span>LinkedIn</span>
       </a>
     </div>
+    <!--
     <div class="supervisor-info">
       <div class="supervisor-label">PhD Supervisor</div>
       <div class="supervisor-name">Dra. Ananda Pascual, Dr. Vincent Combes</div>
     </div>
+    -->
     <p class="card-text">Investigating mesoscale ocean variability in the Mediterranean Sea, focusing on eddy kinetic energy and geostrophic currents derived from satellite altimetry.</p>
   </div>
 </div>
@@ -151,10 +155,12 @@ nav_order: 2
         <span>ORCID</span>
       </a>
     </div>
+    <!--
     <div class="supervisor-info">
       <div class="supervisor-label">PhD Supervisors</div>
       <div class="supervisor-name">Dra. Ananda Pascual, Dr. Simón Ruiz</div>
     </div>
+    -->
     <p class="card-text">Studying submesoscale ocean dynamics, energy cascades, and vertical transport processes in the Mediterranean Sea as part of the CALYPSO project.</p>
   </div>
 </div>
@@ -170,10 +176,12 @@ nav_order: 2
         <span>Email</span>
       </a>
     </div>
+    <!--
     <div class="supervisor-info">
       <div class="supervisor-label">PhD Supervisor</div>
       <div class="supervisor-name">Dra. Ananda Pascual, Dra. Bàrbara Barceló-Llull</div>
     </div>
+    -->
     <p class="card-text">Analyzing marine heatwaves in the Mediterranean Sea with focus on the Balearic Sea region and extreme temperature events.</p>
   </div>
 </div>
@@ -189,10 +197,12 @@ nav_order: 2
         <span>Email</span>
       </a>
     </div>
+    <!--
     <div class="supervisor-info">
       <div class="supervisor-label">PhD Supervisor</div>
       <div class="supervisor-name">Dra. Ananda Pascual, Dr. Angel Amores</div>
     </div>
+    -->
     <p class="card-text">Developing advanced oceanographic data analysis and modeling techniques for understanding ocean dynamics.</p>
   </div>
 </div>
@@ -208,45 +218,47 @@ nav_order: 2
         <span>Master's Thesis</span>
       </a>
     </div>
+    <!--
     <div class="supervisor-info">
       <div class="supervisor-label">Supervisor</div>
       <div class="supervisor-name">Dra. Ananda Pascual</div>
     </div>
+    -->
     <p class="card-text">Investigating marine ecosystem dynamics in the Mediterranean Sea</p>
   </div>
 </div>
 
 </div>
 
-## alumni
+## Alumni
 
 <div class="alumni-simple">
   <div class="alumni-list">
     <div class="alumni-item">
-      <strong>Dr. Daniel R. Tarry</strong> (2018-2023) • PhD Student • Now Postdoc at University of Washington 
+      <strong>Daniel R. Tarry</strong> (2018-2023) • PhD Student • Now Postdoc at University of Washington 
     </div>
     <div class="alumni-item">
-      <strong>Dr. Eugenio Cutolo</strong> (2018-2023) • PhD Student • Now Postdoc at IMT Atlantique 
+      <strong>Eugenio Cutolo</strong> (2018-2023) • PhD Student • Now Postdoc at IMT Atlantique 
     </div>
     <div class="alumni-item">
-      <strong>Dr. Saïd Ouala</strong> (2017-2021) • PhD Student • Now Tenure-Track Associate Professor at IMT Atlantique
+      <strong>Saïd Ouala</strong> (2017-2021) • PhD Student • Now Tenure-Track Associate Professor at IMT Atlantique
     </div>
     <div class="alumni-item">
-      <strong>Dra. Laura Gómez-Navarro</strong> (2016-2020) • PhD Student • Now Postdoc with a Marie Skłodowska-Curie fellowship at ICM 
+      <strong>Laura Gómez-Navarro</strong> (2016-2020) • PhD Student • Now Postdoc with a Marie Skłodowska-Curie fellowship at ICM 
     </div>
     <div class="alumni-item">
-      <strong>Dra. Bàrbara Barceló-Llull</strong> (2014-2017) • PhD Student • Now at IMEDEA Marine Ecology Group
+      <strong>Bàrbara Barceló-Llull</strong> (2014-2017) • PhD Student • Now at IMEDEA Marine Ecology Group
     </div>
     <div class="alumni-item">
-      <strong>Dr. Romain Escudier</strong> (2011-2015) • PhD Student • Now at Mercator Ocean International
+      <strong>Romain Escudier</strong> (2011-2015) • PhD Student • Now at Mercator Ocean International
     </div>
     <div class="alumni-item">
-      <strong>Dr. Enrique Vidal Vijande</strong> (2007-2010) • PhD Student • Now Founding Partner at SOLWORKS
+      <strong>Enrique Vidal Vijande</strong> (2007-2010) • PhD Student • Now Founding Partner at SOLWORKS
     </div>
   </div>
 </div>
 
-## collaborators
+## Collaborators
 
 <div class="section-highlight collaborators-section">
   <div class="collaborators-grid">
@@ -286,7 +298,7 @@ nav_order: 2
   </div>
 </div>
 
-## visitors
+## Visitors
 
 <div class="section-highlight visitors-section">
   <div class="visitors-grid">
